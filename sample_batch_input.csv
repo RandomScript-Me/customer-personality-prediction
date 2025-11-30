@@ -1,0 +1,10 @@
+5524	1957	Graduation	Single	58138	0	0	04-09-2012	58	635	88	546	172	88	88	3	8	10	4	7	0	0	0	0	0	0	3	11	1
+2174	1954	Graduation	Single	46344	1	1	08-03-2014	38	11	1	6	2	1	6	2	1	1	2	5	0	0	0	0	0	0	3	11	0
+4141	1965	Graduation	Together	71613	0	0	21-08-2013	26	426	49	127	111	21	42	1	8	2	10	4	0	0	0	0	0	0	3	11	0
+6182	1984	Graduation	Together	26646	1	0	10-02-2014	26	11	4	20	10	3	5	2	2	0	4	6	0	0	0	0	0	0	3	11	0
+5324	1981	PhD	Married	58293	1	0	19-01-2014	94	173	43	118	46	27	15	5	5	3	6	5	0	0	0	0	0	0	3	11	0
+ID	Year_Birth	Education	Marital_Status	Income	Kidhome	Teenhome	Dt_Customer	Recency	MntWines	MntFruits	MntMeatProducts	MntFishProducts	MntSweetProducts	MntGoldProds	NumDealsPurchases	NumWebPurchases	NumCatalogPurchases	NumStorePurchases	NumWebVisitsMonth	AcceptedCmp3	AcceptedCmp4	AcceptedCmp5	AcceptedCmp1	AcceptedCmp2	Complain	Z_CostContact	Z_Revenue	Response
+4001	1946	PhD	Together	64014	2	1	10-06-2014	56	406	0	30	0	0	8	7	8	2	5	7	0	0	0	1	0	0	3	11	0
+7270	1981	Graduation	Divorced	56981	0	0	25-01-2014	91	908	48	217	32	12	24	1	2	3	13	6	0	1	0	0	0	0	3	11	0
+8235	1956	Master	Together	69245	0	1	24-01-2014	8	428	30	214	80	30	61	2	6	5	10	3	0	0	0	0	0	0	3	11	0
+9405	1954	PhD	Married	52869	1	1	15-10-2012	40	84	3	61	2	1	21	3	3	1	4	7	0	0	0	0	0	0	3	11	1
